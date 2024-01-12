@@ -6,7 +6,7 @@ Welcome to my project! This project displays a styled div using JavaScript.
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. Alternatively, view the hosted version of the project [here](#).
+3. Alternatively, view the hosted version of the project [https://iamsurbhi1503.github.io/domproject_1/].
 
 ## JavaScript Code
 
