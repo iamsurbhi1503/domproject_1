@@ -1,0 +1,10 @@
+let textBox = document.getElementById("container");
+textBox.innerText = "Hello, I'm a div!";
+textBox.style.backgroundColor = "yellow";
+textBox.style.margin = "20px";
+textBox.style.padding = "10px";
+textBox.style.fontSize = "18px";
+textBox.style.color = "blue";
+textBox.style.fontWeight = "bold";
+textBox.style.height = "200px";
+textBox.style.width = "300px";
